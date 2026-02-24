@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Query Lab - Anita Magsaysay-Ho</title>
+    <link rel="stylesheet" href="Styless.css">
+</head>
+<body>
+
+    <header>
+        <h1>Women with Baskets</h1>
+        <p class="artist-name">By Anita Magsaysay-Ho</p>
+    </header>
+
+    <main>
+        <section class="bio-section">
+            <h2>About the Artist</h2>
+            <p>
+                Anita Magsaysay-Ho (1914–2012) was a Filipino painter and the only female member of the 
+                "Thirteen Moderns," a group of artists who helped pioneer modern art in the Philippines. 
+                She is best known for her stylized depictions of Filipina women performing everyday 
+                tasks, characterized by gentle movements and luminous colors.
+            </p>
+        </section>
+
+        <section class="image-gallery">
+            <img src="4.jpg" alt="Artwork Part 1">
+            <img src="3.jpg" alt="Artwork Part 2">
+            <img src="1.jpg" alt="Artwork Part 3">
+            <img src="6.jpg" alt="Artwork Part 4">
+            <img src="2.jpg" alt="Artwork Part 5">
+            <img src="5.jpg" alt="Artwork Part 6">
+            <img src="Reference Image.jpg" alt="Artwork Part 4">
+      
+        </section>
+
+        <section class="video-section">
+            <h2>Featured Video</h2>
+            <video controls>
+                <source src="Anita.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </section>
+    </main>
+
+    <footer>
+        <p>IT2301 - Laboratory Exercise 2</p>
+    </footer>
+
+</body>
+</html>
