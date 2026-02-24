@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>https://www.lamborghini.com/en-en#val-ht</title>
+    <link rel="stylesheet" href="Styles.css">
+</head>
+<body>
+
+    <div class="grid-container">
+        
+        <header class="header">
+            <h1>lamborghini</h1>
+        </header>
+
+        <nav class="navigation">
+            <h2>Navigation</h2>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+
+        <article class="article-1">
+            <h2>Section/Article</h2>
+            <p>lamborghini huracan_evo_spyder</p>
+            <img src="https://cdn-ds.com/media/sz_413347/1477/model_pages/huracan_evo_spyder/huracan_evo_spyder-overview.jpg" alt="Sample Image 1">
+            <p>Presented at the 2014 Geneva Motor Show, the Lamborghini Huracán has represented a consistent evolution for Automobili Lamborghini, continually enhancing the driving experience for customers over the years. Named after the famous bull known for its bravery, the Huracán stands today as Lamborghini’s most versatile super sports car, capable of showcasing its full potential not only on the road and track but also on snow, dirt, and sand with the recent Sterrato version..</p>
+        </article>
+
+        <article class="article-2">
+            <h2>Section/Article</h2>
+            <p>Lamborghini-Gallardo-Superleggera-9_1a</p>
+            <img src="https://www.carscoops.com/wp-content/uploads/2022/08/Lamborghini-Gallardo-Superleggera-9_1a.jpg" alt="Sample Image 2">
+            <p>The path toward the Gallardo officially began in 1998, when the idea of installing a 10-cylinder engine was revisited to create something never seen before in a Lamborghini car. The engine installed on the first Gallardo was a 5-liter, 10-cylinder V90 DOHC with four valves that delivered an output of 500 HP for a state-of-the-art creation. s.</p>
+        </article>
+
+        <footer class="footer">
+            <h2>Footer</h2>
+            <p>&copy; Copyright © 2026 Automobili Lamborghini S.p.A. a company with sole shareholder subject to the management and coordination of AUDI AG.
+
+                All rights reserved. VAT no. IT 00591801204
+                
+                WARNING ABOUT ILLEGAL OFFERS OF ALLEGED SHARES OF AUTOMOBILI LAMBORGHINI S.P.A.
+                
+                Automobili Lamborghini S.p.A. got the notice that several third parties across different countries are allegedly offering shares in Automobili Lamborghini S.p.A. These offers are unlawful and originate neither from Volkswagen Aktiengesellschaft nor from any of its subsidiaries.</p>
+        </footer>
+
+    </div>
+
+</body>
+</html>
